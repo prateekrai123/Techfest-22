@@ -1,0 +1,491 @@
+{
+  "sponser": [
+    {
+      "title": "Group 4.png",
+      "imageSrc": "img/sponser_images/Group 4.png"
+    },
+    {
+      "title": "Group 3.png",
+      "imageSrc": "img/sponser_images/Group 3.png"
+    },
+    {
+      "title": "Group 11.png",
+      "imageSrc": "img/sponser_images/Group 11.png"
+    },
+    {
+      "title": "Group 12.png",
+      "imageSrc": "img/sponser_images/Group 12.png"
+    },
+    {
+      "title": "Group 13.png",
+      "imageSrc": "img/sponser_images/Group 13.png"
+    },
+    {
+      "title": "Group 17.png",
+      "imageSrc": "img/sponser_images/Group 17.png"
+    },
+    {
+      "title": "Group 18.png",
+      "imageSrc": "img/sponser_images/Group 18.png"
+    },
+    {
+      "title": "Group 19.png",
+      "imageSrc": "img/sponser_images/Group 19.png"
+    },
+    {
+      "title": "Group 23.png",
+      "imageSrc": "img/sponser_images/Group 23.png"
+    },
+    {
+      "title": "Group 24.png",
+      "imageSrc": "img/sponser_images/Group 24.png"
+    },
+    {
+      "title": "Group 25.png",
+      "imageSrc": "img/sponser_images/Group 25.png"
+    },
+    {
+      "title": "Group 26.png",
+      "imageSrc": "img/sponser_images/Group 26.png"
+    },
+    {
+      "title": "Group 27.png",
+      "imageSrc": "img/sponser_images/Group 27.png"
+    },
+    {
+      "title": "Group 28.png",
+      "imageSrc": "img/sponser_images/Group 28.png"
+    },
+    {
+      "title": "Group 29.png",
+      "imageSrc": "img/sponser_images/Group 29.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "img1",
+      "imageSrc": "img/gallerry/img1.png"
+    },
+    {
+      "title": "img2",
+      "imageSrc": "img/gallerry/img2.png"
+    },
+    {
+      "title": "img3",
+      "imageSrc": "img/gallerry/img3.png"
+    },
+    {
+      "title": "img4",
+      "imageSrc": "img/gallerry/img4.png"
+    },
+
+    {
+      "title": "img5",
+      "imageSrc": "img/gallerry/img5.png"
+    },
+    {
+      "title": "img6",
+      "imageSrc": "img/gallerry/img6.png"
+    },
+    {
+      "title": "img7",
+      "imageSrc": "img/gallerry/img7.png"
+    },
+    {
+      "title": "img8",
+      "imageSrc": "img/gallerry/img8.png"
+    },
+    {
+      "title": "img9",
+      "imageSrc": "img/gallerry/img9.png"
+    },
+    {
+      "title": "img10.png",
+      "imageSrc": "img/gallerry/img10.png"
+    },
+    {
+      "title": "img11",
+      "imageSrc": "img/gallerry/img11.png"
+    },
+    {
+      "title": "img12",
+      "imageSrc": "img/gallerry/img12.png"
+    },
+    {
+      "title": "img13",
+      "imageSrc": "img/gallerry/img13.png"
+    },
+    {
+      "title": "img4",
+      "imageSrc": "img/gallerry/prabhav.jpeg"
+    },
+    {
+      "title": "img14",
+      "imageSrc": "img/gallerry/img14.png"
+    },
+    {
+      "title": "img16",
+      "imageSrc": "img/gallerry/img15.png"
+    },
+    {
+      "title": "img16",
+      "imageSrc": "img/gallerry/img16.png"
+    },
+    {
+      "title": "img17",
+      "imageSrc": "img/gallerry/img17.png"
+    },
+    {
+      "title": "img18",
+      "imageSrc": "img/gallerry/img18.png"
+    },
+    {
+      "title": "img19",
+      "imageSrc": "img/gallerry/img19.png"
+    },
+    {
+      "title": "img20",
+      "imageSrc": "img/gallerry/img20.png"
+    }
+  ],
+  "groupTechfestAbt": [
+    {
+      "title": "Group 767",
+      "imageSrc": "img/aboutus/group_tf/Group 767.png"
+    },
+    {
+      "title": "Group 768",
+      "imageSrc": "img/aboutus/group_tf/Group 768.png"
+    },
+    {
+      "title": "Group 769",
+      "imageSrc": "img/aboutus/group_tf/Group 769.png"
+    },
+    {
+      "title": "Group 770",
+      "imageSrc": "img/aboutus/group_tf/Group 770.png"
+    }
+  ],
+  "group_buliding": [
+    {
+      "title": "BUilding",
+      "imageSrc": "img/group-building/BUilding.svg"
+    },
+    {
+      "title": "Dollar",
+      "imageSrc": "img/group-building/Dollar Svg.svg"
+    },
+    {
+      "title": "Footfall",
+      "imageSrc": "img/group-building/Footfall.svg"
+    }
+  ],
+  "head_tf": [
+    {
+      "title": "header-logo",
+      "imageSrc": "img/main_img/header-logo.png"
+    },
+    {
+      "title": "tf22",
+      "imageSrc": "img/main_img/tf22.png"
+    },
+    {
+      "title": "White SLIET 1",
+      "imageSrc": "img/main_img/White SLIET 1.png"
+    }
+  ],
+  "domain": [
+    {
+      "title": "Robozar",
+      "imageSrc": "img/domain/1.jpg"
+    },
+    {
+      "title": "Robozar",
+      "imageSrc": "img/domain/2.jpg"
+    },
+    {
+      "title": "ROBOZAR",
+      "imageSrc": "img/domain/3.jpg"
+    }
+  ],
+  "eventLogo": [
+    {
+      "imageSrc": "images/Domain/pngwing 3.png",
+      "title": "Robozar",
+      "subTitle": "They are doing what we do, eventually might do it all. You build what can work for you, We bring this which can make you better at building. Do participate to build better."
+    }
+  ],
+  "teamMember": [
+    {
+      "name": "Pragati",
+      "imgSrc": "img/teamImg/pragati.jpeg",
+      "role": "Core",
+      "stauts": "core",
+      "phone": ""
+    },
+    {
+      "name": "Meharpreet Singh",
+      "imgSrc": "img/teamImg/Meharpreet-Singh.jpg",
+      "role": "Core",
+      "phone": "",
+      "stauts": "core"
+    },
+    {
+      "name": "Simran",
+      "imgSrc": "img/teamImg/IMG_20220401_143637.jpg",
+      "role": "Core",
+      "phone": "",
+      "stauts": "core"
+    },
+    {
+      "name": "Abhishek Yadav",
+      "imgSrc": "img/teamImg/GME-2030734.jpg",
+      "role": "Core",
+      "phone": "",
+      "stauts": "core"
+    },
+    {
+      "name": "Sankha Maiti",
+      "imgSrc": "img/teamImg/Sankha Maiti.jpeg",
+      "role": "Core",
+      "phone": "",
+      "stauts": "core"
+    },
+    {
+      "name": "Nikhil",
+      "imgSrc": "img/teamImg/Nikhil.JPEG",
+      "role": "Core",
+      "phone": "",
+      "stauts": "core"
+    },
+    {
+      "name": "Satvik Raj Patel",
+      "imgSrc": "img/teamImg/Satvik Raj Patel.jpg",
+      "role": "Core",
+      "phone": "",
+      "stauts": "core"
+    },
+    {
+      "name": "Aashita  Saran",
+      "imgSrc": "img/teamImg/1.jpg",
+      "role": "Core",
+      "phone": "",
+      "stauts": "core"
+    },
+    {
+      "name": "Krishna Kumar",
+      "imgSrc": "img/teamImg/2.jpeg",
+      "role": "Core",
+      "phone": "",
+      "stauts": "core"
+    },
+    {
+      "name": "Soham Das",
+      "imgSrc": "img/teamImg/Soham Das.jpeg",
+      "role": "Core",
+      "phone": "",
+      "stauts": "core"
+    },
+    {
+      "name": "Loknath",
+      "imgSrc": "img/teamImg/Loknath _1.jpg",
+      "role": "Core",
+      "phone": "",
+      "stauts": "core"
+    },
+
+    {
+      "name": "DIKSHA KUMARI",
+      "imgSrc": "img/teamImg/DIKSHA KUMARI.jpg",
+      "role": "Core",
+      "stauts": "core",
+      "phone": ""
+    },
+    {
+      "name": "Pravin Kumar",
+      "imgSrc": "img/teamImg/pravin.jpeg",
+      "role": "React Develper",
+      "phone": "6201783527",
+      "stauts": "web"
+    },
+
+    {
+      "name": "Anubhav Rajput",
+      "imgSrc": "img/teamImg/anubhav.jpg",
+      "role": " Front End & React Developer",
+      "stauts": "web",
+      "phone": "8877949888"
+    },
+    {
+      "name": "Shoaib",
+      "imgSrc": "img/teamImg/mahi_).jpeg",
+      "role": "Back End,Server Manage,React",
+      "phone": "6201783527",
+      "stauts": "web"
+    },
+    {
+      "name": "Prateek Rai",
+      "imgSrc": "img/teamImg/preteek.jpeg",
+      "role": "Back End & Server Management",
+      "phone": "6388503409",
+      "stauts": "web"
+    },
+
+    {
+      "name": "Gaurav Kumar",
+      "imgSrc": "img/teamImg/gaurav.jpg",
+      "role": " Front End & React Developer",
+      "phone": "6388503409",
+      "stauts": "web"
+    },
+    {
+      "name": "Ravi",
+      "imgSrc": "img/teamImg/RaviRanjan.jpg",
+      "role": "Front End Developer",
+      "stauts": "web",
+      "phone": ""
+    },
+    {
+      "name": "Ayush",
+      "imgSrc": "img/teamImg/ayush.jpeg",
+      "role": "Back End Developer",
+      "phone": "6201783527",
+      "stauts": "web"
+    },
+    {
+      "name": "Akshay Raj",
+      "imgSrc": "img/teamImg/Akshay Raj.jpg",
+      "role": "Front End Developer",
+      "phone": "6388503409",
+      "stauts": "web"
+    },
+    {
+      "name": "Aditya Maharshi",
+      "imgSrc": "img/teamImg/Aditya Maharshi.jpg",
+      "role": "Front End Developer",
+      "phone": "6388503409",
+      "stauts": "web"
+    },
+    {
+      "name": "Abhishu Shakya",
+      "imgSrc": "img/teamImg/Abhishu Shakya.jpg",
+      "role": "UI/UX Designer",
+      "phone": "6388503409",
+      "stauts": "web"
+    },
+    {
+      "name": "Aryan Dutt",
+      "imgSrc": "img/teamImg/aryan.jpeg",
+      "role": "Front End Developer",
+      "phone": "6388503409",
+      "stauts": "web"
+    },
+
+    {
+      "name": "Himanshu",
+      "imgSrc": "img/teamImg/himanshu.jpg",
+      "role": "Front End Developer",
+      "stauts": "web",
+      "phone": ""
+    },
+    {
+      "name": "ABHIGYAN",
+      "imgSrc": "img/teamImg/ABHIGYAN.JPG",
+      "role": "Supervisory",
+      "stauts": "Supervisory",
+      "phone": ""
+    },
+    {
+      "name": "Karan Chanana",
+      "imgSrc": "img/teamImg/Karan chanana.jpg",
+      "role": "Supervisory",
+      "stauts": "Supervisory",
+      "phone": ""
+    },
+    {
+      "name": "Rahul Thakur",
+      "imgSrc": "img/teamImg/Rahul.jpg",
+      "role": "Supervisory",
+      "stauts": "Supervisory",
+      "phone": ""
+    },
+    {
+      "name": "Anamika",
+      "imgSrc": "img/teamImg/SAVE_20220401_142407.jpg",
+      "role": "Supervisory",
+      "stauts": "Supervisory",
+      "phone": ""
+    },
+    {
+      "name": "Nivas",
+      "imgSrc": "img/teamImg/3.jpg",
+      "role": "Supervisory",
+      "stauts": "Supervisory",
+      "phone": ""
+    },
+    {
+      "name": "Ashmi",
+      "imgSrc": "img/teamImg/4.jpg",
+      "role": "Domain coordinator",
+      "stauts": "Domain coordinator",
+      "phone": ""
+    },
+    {
+      "name": "Md.Dilkash",
+      "imgSrc": "img/teamImg/11.jpeg",
+      "role": "Domain coordinator",
+      "stauts": "Domain coordinator",
+      "phone": ""
+    },
+    {
+      "name": "Shailesh Mishra",
+      "imgSrc": "img/teamImg/Shailesh Mishra.png",
+      "role": "Domain coordinator",
+      "stauts": "Domain coordinator",
+      "phone": ""
+    },
+    {
+      "name": "Shristi",
+      "imgSrc": "img/teamImg/8.jpeg",
+      "role": "Domain coordinator",
+      "stauts": "Domain coordinator",
+      "phone": ""
+    },
+    {
+      "name": "Ayush Anand",
+      "imgSrc": "img/teamImg/5.jpeg",
+      "role": "Domain coordinator",
+      "stauts": "Domain coordinator",
+      "phone": ""
+    },
+    {
+      "name": "Deepankar Jha",
+      "imgSrc": "img/teamImg/6.jpg",
+      "role": "Domain coordinator",
+      "stauts": "Domain coordinator",
+      "phone": ""
+    },
+    {
+      "name": "Ashish",
+      "imgSrc": "img/teamImg/7.jpeg",
+      "role": "Domain coordinator",
+      "stauts": "Domain coordinator",
+      "phone": ""
+    },
+
+    {
+      "name": "Amrit",
+      "imgSrc": "img/teamImg/9.jpeg",
+      "role": "Domain coordinator",
+      "stauts": "Domain coordinator",
+      "phone": ""
+    },
+    {
+      "name": "Utsah Baghel",
+      "imgSrc": "img/teamImg/10.jpeg",
+      "role": "Domain coordinator",
+      "stauts": "Domain coordinator",
+      "phone": ""
+    }
+  ]
+}

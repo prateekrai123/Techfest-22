@@ -1,0 +1,479 @@
+.home{
+  margin-top: -2rem;
+}
+.homepage_gif {
+  display: block;
+  width: 100%;
+}
+.home__slider{
+  padding-bottom: 5rem;
+}
+.homepage_gif_mobile {
+  display: none;
+}
+.workShop_Animation {
+  animation: animate 3s linear infinite;
+}
+.college__people__money{
+  margin-top: -4rem;
+}
+
+.logo_section_button_section__Sign_Up:hover{
+  color: green !important;
+}
+.logo_section_button_section__About_Us:hover{
+  background-color: rgb(202, 199, 199);
+  color: black !important;
+}
+.logo_section__button_section{
+  margin-bottom: 2rem;
+}
+.home__slider__line{
+  height: 2px;
+  width: 60%;
+  background-color: white;
+  border-radius: 20px;
+  margin-left: -15rem;
+  margin-top: 2rem;
+  /* margin-right: -2rem; */
+}
+.home__slider__text{
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+.home__slider__text h1{
+  font-size: 50px;
+  font-family: "heading font";
+}
+
+@keyframes animate {
+  50% {
+    transition: 1s ease;
+    transform: translateY(-20px);
+  }
+
+  100% {
+    transition: 1s ease;
+    transform: translateY(0px);
+  }
+}
+
+@media all and (max-width: 499px) {
+  .homepage_gif {
+    display: none;
+  }
+  .homepage_gif_mobile {
+    display: block !important;
+    padding-top: -9rem !important;
+  }
+  .scroll__text {
+    display: none;
+    color: transparent;
+  }
+  .btn-none {
+    width: 213px;
+    margin-top: 10px;
+  }
+  .merchendise__image img{
+    width: 300px ;
+    height: 216px ;
+  }
+
+  .scroll {
+    bottom: 0rem;
+    display: none;
+  }
+  .scroll__goto{
+    display: none;
+  }
+}
+@media screen and (max-width:769px) {
+.scroll{
+  margin-bottom:6rem;
+}
+  .home{
+    margin-top: -2rem !important;
+  }
+  .merchendise__image img{
+    width: 523px ;
+    height: 288px ;
+  }
+
+}
+
+@media screen and (max-width:1025px) {
+  .scroll{
+    bottom: 6rem !important;
+  }
+  .home{
+    margin-top: -4rem;
+  }
+
+}
+@media screen and (max-width:426px) {
+  .scroll{
+    bottom: 15rem !important;
+  }
+  .home{
+    margin-top:unset !important;
+  }
+  .Logo_image {
+    width: 250px !important;
+    height: 250px !important;
+  }
+  .merchendise__image img{
+    width: 290px !important;
+    height: 196px !important;
+  }
+
+
+}
+@media screen and (max-width:320px) {
+  .scroll{
+    bottom: 20rem !important;
+    right: 1rem !important;
+  }
+ 
+}
+
+.Logo_image {
+  width: 350px;
+  height: 350px;
+}
+
+.logo_section {
+  margin-top: -3rem;
+}
+
+.logo_section__image {
+  position: relative;
+}
+
+.logo_section_content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.logo_section__image img {
+  filter: drop-shadow(0.5rem 0.5rem 3rem rgb(51, 250, 1));
+}
+
+.logo_section__image img:hover {
+  filter: drop-shadow(0.5rem 0.5rem 4rem rgb(51, 250, 1));
+}
+
+.logo_section__about {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.logo_section_about__heading h2 {
+  font-size: 2.9rem;
+  font-family: "helveticaregular";
+}
+
+.logo_section_button_section__About_Us {
+  border: 1px solid rgb(107, 103, 103) !important;
+  background-color: transparent;
+}
+
+
+.btn-green{
+  background-image: linear-gradient(
+    to top right,
+    rgb(12, 75, 19),
+    rgba(21, 197, 45, 0.842)
+  );
+  color: #fff !important;
+  font-style: normal !important;
+  font-weight: 400;
+  border-radius: 10px !important;
+  font-family: "helveticaregular";
+}
+.btn-green:hover{
+  color: #000 !important;
+}
+
+.btn-none,
+.btn-none:active,
+.btn-none:visited {
+  color: black;
+  background: transparent !important;
+  border: 2px solid rgb(0, 138, 0);
+}
+
+
+/* Scroll Down Button Styling Start*/
+
+.Home__background {
+  background-image: url("../../images/Stagnant-BG-Webp.webp");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.scroll {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: 2rem;
+  bottom: 5rem;
+ 
+
+}
+
+.scroll__text {
+  background-color: rgb(30, 30, 39);
+  color: white;
+  border-radius: 30px;
+  cursor: pointer;
+  width: 156px;
+  height: 38px;
+  margin-right: -25px;
+}
+
+.scroll__text h6 {
+  padding: 8px 0 0 20px;
+}
+
+.scroll__goto {
+  width: 53px;
+  height: 53px;
+  border-radius: 50%;
+  background-color: rgb(30, 30, 39);
+  padding: 15px 15px 15px 15px;
+  color: greenyellow;
+  filter: drop-shadow(0.2rem 0.2rem 1rem rgb(65, 241, 21));
+  text-align: center;
+  cursor: pointer;
+}
+
+.scroll__goto .fa-chevron-down {
+  font-size: 24px;
+}
+
+/* Scroll Down Button Styling End*/
+
+
+.scroll__text {
+  z-index: 1;
+}
+
+.scroll__goto {
+  z-index: 2;
+}
+
+@media only screen and (max-width: 768px) {
+  .logo_section__about {
+    width: 71%;
+  }
+  .logo_section_about__heading h2 {
+    font-size: 2.3rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .logo_section__about {
+    width: 90%;
+  }
+  .logo_section_about__heading h2 {
+    font-size: 1.5rem;
+  }
+  .blockquote {
+    font-size: 1.1rem;
+  }
+  .container__college__people__money1{
+    margin-left: 1rem !important;
+  }
+}
+/* workshop car par is hare ------------------------------ */
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: rgb(0, 0, 0) !important;
+}
+
+.cards-container_card1 {
+  width: 300px;
+}
+
+.cards-container_card1_image img {
+  width: 100%;
+  height: auto;
+}
+
+.cards-container_card1_description-container {
+  text-align: center;
+  color: white;
+  padding: 5px;
+}
+
+.cards-container_card1_description-container_title {
+  font-family: "heading font";
+  font-size: large;
+  letter-spacing: 2px;
+}
+
+.cards-container_card1_description-container_content {
+  margin: 21px;
+  font-family: "helveticaregular";
+  word-spacing: 1px;
+  font-weight: lighter;
+}
+
+.cards-container_card1_description-container_btn {
+  padding: 5px;
+  margin: 15px;
+}
+.cards-container_card1_description-container_btn a:hover{
+  background-color: rgb(202, 199, 199);
+  color: black !important;
+}
+
+.cards-container_card1_description-container_btn a {
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+  padding: 6px;
+  border-radius: 6px;
+}
+
+.cards-container_card2 {
+  width: 300px;
+  padding-top: 40px;
+}
+
+ .cards-container_card2_image {
+  display: flex;
+  justify-content: center;
+
+} 
+
+.cards-container_card2_image img {
+  width: 100%;
+  height: auto;
+}
+
+.cards-container_card2_description-container {
+  text-align: center;
+  color: white;
+  margin-top: -15px;
+}
+
+.cards-container_card2_description-container_title {
+  font-family: "heading-font";
+  font-size: large;
+}
+
+.cards-container_card2_description-container_content {
+  margin: 21px;
+  font-family:"helveticaregular";
+  word-spacing: 1px;
+  font-weight: lighter;
+} 
+
+.cards-container_card2_description-container_btn {
+  padding: 5px;
+  margin: 15px;
+}
+.cards-container_card2_description-container_btn a:hover{
+  background-color: rgb(202, 199, 199);
+  color: black !important;
+}
+
+.cards-container_card2_description-container_btn a {
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+  padding: 6px;
+  border-radius: 6px;
+}
+
+/* merchandise................. */
+.merchendise{
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+.merchendise__head h1{
+  font-family: "heading font";
+  letter-spacing: 1px;
+}
+
+
+.merchendise__image img{
+  width: 606px;
+  height: 306px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* price money people icon section is here ---------------*/
+.banner--fadeBottom{
+   height: 7.4rem;
+    background-image: linear-gradient(
+        180deg,
+        transparent,
+        rgba(8, 7, 7, 0.91),
+        rgb(0, 0, 0)
+    );
+    margin-top: -5rem;
+    z-index: -1;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.college {
+  border-right: 8px solid rgb(1, 250, 76);
+  border-radius: 2px;
+}
+
+.people {
+  border-right: 8px solid rgb(1, 250, 76);
+  border-radius: 2px;
+}
+
+@media screen and (max-width: 490px) {
+  
+  .logo_section_about__heading h2 {
+    font-size: 30px;
+  }
+  .blockquote p {
+    font-size: 15px;
+    text-align: justify !important;
+  }
+}
+.blockquote p{
+  font-family: "helveticaregular";
+}
+/* This is the footer section ................... */
+
+
+@media screen and (max-width:1025px) {
+  .home__slider__line{
+    display: none;
+  }
+  
+}
+

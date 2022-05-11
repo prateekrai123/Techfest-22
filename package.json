@@ -1,0 +1,66 @@
+{
+  "name": "techfest22",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@popperjs/core": "^2.11.2",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.26.0",
+    "bootstrap": "^5.1.3",
+    "dotenv": "^16.0.0",
+    "file-saver": "^2.0.5",
+    "fs": "^0.0.1-security",
+    "jquery": "^3.6.0",
+    "multiselect-react-dropdown": "^2.0.21",
+    "owl.carousel": "^2.3.4",
+    "popper.js": "^1.16.1",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.2.1",
+    "react-csv": "^2.2.2",
+    "react-dom": "^17.0.2",
+    "react-lazy-load-image-component": "^1.5.4",
+    "react-modal": "^3.14.4",
+    "react-owl-carousel": "^2.3.3",
+    "react-scripts": "5.0.0",
+    "react-slick": "^0.28.1",
+    "rsuite": "^5.6.5",
+    "slick-carousel": "^1.8.1",
+    "uuidv4": "^6.2.12",
+    "web-vitals": "^2.1.3",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "npm run clear && react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "clear": "rimraf build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "mini-css-extract-plugin": "2.5.2",
+    "path-browserify": "^1.0.1",
+    "react-router-dom": "^6.2.1"
+  }
+}
